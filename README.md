@@ -16,6 +16,8 @@
 - 📝 I regularly write articles on [https://medium.com/@rraagul](https://medium.com/@rraagul)
 
 - 📫 How to reach me **raagulraju8@gmail.com**
+- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +36,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raagulvigneshr&show_icons=true&locale=en" alt="raagulvigneshr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raagulvigneshr&" alt="raagulvigneshr" /></p>
+<p align="center">
+<a href="https://github.com/RaagulVigneshR">
+  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=RaagulVigneshR&theme=chartreuse-dark"/>
+</a>
+</p>
+
+<samp>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
+<br>
+
+<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
+<br>
