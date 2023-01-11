@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
-- 👯 I’m looking to collaborate on **CYBER SECURITY PROJECTS**
+- 👯 I’m looking to collaborate on **FULL STACK DEVELOPMENT**
 
-- 🤝 I’m looking for help with **ML PROJECTS**
+- 🤝 I’m looking for help with **IMAGE PROCESSING**
 
 - 📝 I regularly write articles on [https://medium.com/@rraagul](https://medium.com/@rraagul)
 
