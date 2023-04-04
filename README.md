@@ -1,18 +1,14 @@
 ### <h1 align="center">Hi 👋, I'm RAAGUL VIGNESH R</h1>
 <h3 align="center">A passionate  developer from India.</h3>
-<p align="center"><img height="300" width="630" src="ASSETS/RAAGUL-VIGNESH-R.png"></img></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raagulvigneshr&label=Profile%20views&color=0e75b6&style=flat" alt="raagulvigneshr" /> </p>
 
 
 
-- 🔭 I’m currently working on **AI BASED COLLISION AVOIDANCE SYSTEM**
+
 
 - 🌱 I’m currently learning **JAVASCRIPT**
-
-- 👯 I’m looking to collaborate on **FULL STACK DEVELOPMENT**
-
-- 🤝 I’m looking for help with **IMAGE PROCESSING**
 
 - 📝 I regularly write articles on [https://medium.com/@rraagul](https://medium.com/@rraagul)
 
