@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVASCRIPT**.
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 📝 I regularly write articles on [https://medium.com/@rraagul](https://medium.com/@rraagul)
 
