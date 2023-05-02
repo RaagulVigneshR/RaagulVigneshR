@@ -34,7 +34,7 @@
 const RAAGULVIGNESHR = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,C/C++,PYTHON],
-   askMeAbout: ["Web Development","Cycle","Discord","IOT"],
+   askMeAbout: ["Web Development","VULNERABILITY ASSESMENT","CYBER SECURITY","IOT"],
    technologies: {
        frontEnd: [
            Js: {"VueJs", "ReactJs"}
