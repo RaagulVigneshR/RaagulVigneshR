@@ -1,5 +1,23 @@
 ### <h1 align="center">Hi 👋, I'm RAAGUL VIGNESH R</h1>
-<h3 align="center">A passionate  developer from India.</h3>
+### < Hello World /> <img src="./wave-hello.gif" width="40px">
+
+<hr>
+
+
+📱 Passionate about crafting stunning mobile apps with a creative flair! 🌟 Experienced Java Full Stack Developer with expertise in Cyber Security. Proven skills in designing, implementing, and securing robust web applications. Adept at utilizing Java technologies to fortify digital systems against cyber threats, ensuring optimal security for end-to-end development processes. 🚀 </br>
+
+
+  <p align="center"> (Open for Hiring)</p>
+<hr>
+
+  
+</p>
+
+
+<br>
+
+
+
 <p>
 </p>
 
@@ -94,13 +112,13 @@ const RAAGULVIGNESHR = {
 ### Github contribution:
 
 <h4 align="center">My contribution graph</h4>
-
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=RaagulVigneshR&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="RaagulVigneshR's Github Graph" /> </p> 
-
+<h allign="center">
+<img align="center" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=RaagulVigneshR&theme=merko" alt="Stats" /> 
+</h>
 
 
 <samp>
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <p allign="center" img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
