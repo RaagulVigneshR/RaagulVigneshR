@@ -48,7 +48,7 @@
 ```javascript
 const RAAGULVIGNESHR = {
    pronouns: "he" | "him",
-   code: [HTML,JS,CSS,C/C++,PYTHON],
+   code: [HTML,JS,CSS,C/C++,PYTHON,Java,Dart],
    askMeAbout: ["Web Development","VULNERABILITY ASSESMENT","CYBER SECURITY","IOT"],
    technologies: {
        frontEnd: [
