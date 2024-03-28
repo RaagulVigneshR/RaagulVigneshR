@@ -52,13 +52,13 @@ const RAAGULVIGNESHR = {
    askMeAbout: ["Web Development","VULNERABILITY ASSESMENT","CYBER SECURITY","IOT"],
    technologies: {
        frontEnd: [
-           Js: {"VueJs", "ReactJs"}
+           Js: {"VueJs", "ReactJs", "Flutter"}
        ],
        backEnd: [
-           BasS: {"firebase","MongoDB"}
+           BasS: {"firebase","MongoDB","SpringBoot"}
        ],
        competitive: [
-           CompilerLang: {"C/C++"},
+           CompilerLang: {"C/C++","Java"},
 	   InterpretedLang: {"PYTHON"}
    ]
 };
